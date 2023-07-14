@@ -1,3 +1,4 @@
+# store all config app that use this git as config repo
 greeting: 
  message: Hello, Spring Cloud Config!
 
