@@ -1,7 +1,7 @@
 test:
  msg: hello cloudssssss
 server:
- port: 8001
+ port: 8081
 eureka:
  client:
   serviceUrl: 
