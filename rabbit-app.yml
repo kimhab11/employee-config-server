@@ -2,7 +2,7 @@
 # server.port=8082
 
 greeting:
- tt: Hello, Spring Config Server! from rabbit-test.properties 99dddd
+ tt: Hello, Spring Config Server! from rabbit-test.properties 111
 server: 
  port: 8082
 
